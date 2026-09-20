@@ -18,7 +18,6 @@ them on another machine.
 | [`module-virtual-machines`](https://github.com/RevolunixOS/module-virtual-machines) | Declarative libvirt VMs, Looking Glass, and optional PCI passthrough |
 | [`dotfiles`](https://github.com/RevolunixOS/dotfiles) | Reference workstation configuration for the original development host |
 | [`DevelopementEnvironement`](https://github.com/RevolunixOS/DevelopementEnvironement) | Superproject that pins the ecosystem repositories as submodules |
-| [`revolui`](https://github.com/RevolunixOS/revolui) | Early Nuxt proof of concept for an infrastructure dashboard |
 
 ## Desktop utilities
 
